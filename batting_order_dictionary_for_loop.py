@@ -7,4 +7,4 @@ batting_order = {
 }
 
 for a_player in batting_order:
-    print(batting_order[a_player])
+    print(a_player,'is ',batting_order[a_player])
